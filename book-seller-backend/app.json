@@ -1,0 +1,9 @@
+
+{
+  "name": "springbook-seller",
+  "buildpacks": [
+    {
+      "url": "heroku/gradle"
+    }
+  ]
+}
