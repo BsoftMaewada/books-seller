@@ -102,5 +102,8 @@
       }
     }
   },
-  "defaultProject": "book-seller-frontend"
+  "defaultProject": "book-seller-frontend",
+  "cli": {
+    "analytics": "0595f938-b944-42e2-82aa-4e6332122c12"
+  }
 }
